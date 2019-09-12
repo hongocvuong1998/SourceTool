@@ -1,2 +1,9 @@
+#ignore file 
 temp_2.txt
+
+#ignore folder
 /test
+
+#ignote format file
+*.py
+
