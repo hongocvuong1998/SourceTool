@@ -5,5 +5,5 @@ temp_2.txt
 /test
 
 #ignote format file
-*.py
+*.xml
 
